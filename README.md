@@ -1,2 +1,2 @@
-Fusion-BevelGear 90Degree
+# Fusion-BevelGear 90Degree
 一种可调变位系数等细节参数的Fusion360锥齿轮生成插件
